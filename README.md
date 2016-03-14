@@ -19,3 +19,5 @@ token
 با دستور 
 
 python dgmbot.py 
+
+بات رو لانچ کنید 
